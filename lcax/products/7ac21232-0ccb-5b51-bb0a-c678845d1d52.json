@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "7ac21232-0ccb-5b51-bb0a-c678845d1d52",
+  "impact_data": {
+    "epd": {
+      "comment": "Kun tranport",
+      "conversions": null,
+      "declared_unit": "tones",
+      "format_version": "2.2.1",
+      "id": "d2b473db-2a40-5eea-aa83-2b4c43ae6d67",
+      "impacts": {
+        "a1a3": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c2": {
+          "gwp": 0.0,
+          "gwp_fos": null,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c3": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": null,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c4": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": null,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "d": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": null,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "JORDTYPER",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Jordtransport vand bynær",
+      "published_date": "2023-09-21",
+      "reference_service_life": 0,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "unknown",
+      "subtype": "generic",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "JORDTYPER",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Jordtransport vand bynær",
+  "quantity": 1.0,
+  "reference_service_life": 0,
+  "results": null,
+  "transport": [
+    {
+      "distance": 2.0,
+      "distance_unit": "km",
+      "id": "0f887080-aa69-4c80-b1d1-e2caa80ed42a",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: Indlands pram. Ökobau database værdier (Process Data set: Barge (average))",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "47c5ea50-c485-563d-9fdd-9e83a6ccf532",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.01965,
+              "gwp_fos": 0.01951,
+              "gwp_bio": -0.00002008,
+              "gwp_lul": 0.000161,
+              "odp": 2.513e-18,
+              "ap": 0.0001837,
+              "ep_fw": 5.838e-8,
+              "ep_mar": 0.00009263,
+              "ep_ter": 0.00102,
+              "pocp": 0.0002698,
+              "adpe": 1.497e-9,
+              "adpf": 0.2618,
+              "wdp": 0.0001708
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Skib pram diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a5"
+      ],
+      "name": "Skib pram diesel"
+    }
+  ],
+  "unit": "tones"
+}

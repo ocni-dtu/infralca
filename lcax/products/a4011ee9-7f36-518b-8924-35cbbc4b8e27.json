@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "a4011ee9-7f36-518b-8924-35cbbc4b8e27",
+  "impact_data": {
+    "epd": {
+      "comment": "Kun tranport",
+      "conversions": null,
+      "declared_unit": "tones",
+      "format_version": "2.2.1",
+      "id": "44f3001d-6ac3-50f1-ae7e-214763b031b4",
+      "impacts": {
+        "a1a3": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c2": {
+          "gwp": 0.0,
+          "gwp_fos": null,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c3": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": null,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c4": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": null,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "d": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": null,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "JORDTYPER",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Jordtransport klapning",
+      "published_date": "2023-09-21",
+      "reference_service_life": 0,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "unknown",
+      "subtype": "generic",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "JORDTYPER",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Jordtransport klapning",
+  "quantity": 1.0,
+  "reference_service_life": 0,
+  "results": null,
+  "transport": [
+    {
+      "distance": 40.0,
+      "distance_unit": "km",
+      "id": "f609a057-c5ac-4622-b64b-9b3d57918e89",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: Kystskib. Ökobau database værdier (Process Data set: Bulk carrier coast)",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "e5e9cafa-037a-50ba-9b97-7d4383c74c76",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.0157,
+              "gwp_fos": 0.01567,
+              "gwp_bio": 0.00002614,
+              "gwp_lul": 5.701e-7,
+              "odp": 3.842e-18,
+              "ap": 0.0002948,
+              "ep_fw": 3.152e-9,
+              "ep_mar": 0.0001499,
+              "ep_ter": 0.001641,
+              "pocp": 0.0004018,
+              "adpe": 5.852e-10,
+              "adpf": 0.2117,
+              "wdp": 0.00001641
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Skib kyst disesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a5"
+      ],
+      "name": "Skib kyst disesel"
+    }
+  ],
+  "unit": "tones"
+}

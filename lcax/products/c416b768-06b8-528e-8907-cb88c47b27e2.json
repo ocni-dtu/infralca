@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "c416b768-06b8-528e-8907-cb88c47b27e2",
+  "impact_data": {
+    "epd": {
+      "comment": "Gennemsnit af EPD: EPD­VRS­20210079­ICD1­DE, EPD­VRS­20210080­ICC1­DE",
+      "conversions": null,
+      "declared_unit": "tones",
+      "format_version": "2.2.1",
+      "id": "b9b3db17-3094-5d60-89ee-ff5d3d952064",
+      "impacts": {
+        "a1a3": {
+          "gwp": 255.5802,
+          "gwp_fos": 254.3861,
+          "gwp_bio": 0.767557,
+          "gwp_lul": 0.15405335,
+          "odp": 2.419299e-8,
+          "ap": 0.5907017999999999,
+          "ep_fw": 0.0007644915,
+          "ep_mar": 0.17922735,
+          "ep_ter": 1.938631,
+          "pocp": 0.5442014500000001,
+          "adpe": 0.00013467490000000003,
+          "adpf": 2052.0705,
+          "wdp": 12.02815
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c2": {
+          "gwp": 0.0,
+          "gwp_fos": null,
+          "gwp_bio": 152.1058765,
+          "gwp_lul": 2.993965,
+          "odp": -0.0049998925,
+          "ap": 0.024089094999999998,
+          "ep_fw": 5.462579500000001e-16,
+          "ep_mar": 0.010119195000000001,
+          "ep_ter": 9.074625000000001e-6,
+          "pocp": 0.0045640995,
+          "adpe": 0.05098379,
+          "adpf": 0.0089848,
+          "wdp": 2.4089095e-7
+        },
+        "c3": {
+          "gwp": 39.700615,
+          "gwp_fos": 0.029044075000000003,
+          "gwp_bio": null,
+          "gwp_lul": 0.8089225,
+          "odp": 0.805964,
+          "ap": 0.002686511,
+          "ep_fw": 0.0011671525,
+          "ep_mar": 1.7701195000000002e-14,
+          "ep_ter": 0.00177609,
+          "pocp": 2.1492194999999997e-6,
+          "adpe": 0.00039461795,
+          "adpf": 0.004149176500000001,
+          "wdp": 0.0010835655
+        },
+        "c4": {
+          "gwp": 2.3312930000000003e-7,
+          "gwp_fos": 14.149015000000002,
+          "gwp_bio": 0.17551665,
+          "gwp_lul": null,
+          "odp": 0.770141,
+          "ap": 0.8268340000000001,
+          "ep_fw": -0.060597899999999996,
+          "ep_mar": 0.0021910130000000003,
+          "ep_ter": 2.9163484999999996e-15,
+          "pocp": 0.005540196,
+          "adpe": 1.325344e-6,
+          "adpf": 0.001420872,
+          "wdp": 0.01561152
+        },
+        "d": {
+          "gwp": 0.0043133385,
+          "gwp_fos": 7.22377e-8,
+          "gwp_bio": 10.955065000000001,
+          "gwp_lul": 0.07522295,
+          "odp": null,
+          "ap": -46.800374999999995,
+          "ep_fw": -46.740669999999994,
+          "ep_mar": -0.042362945,
+          "ep_ter": -0.02479753,
+          "pocp": -2.2247335e-13,
+          "adpe": -0.09114375,
+          "adpf": -0.00003451805,
+          "wdp": -0.017089005
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "BETONELEMENTER",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Sveller",
+      "published_date": "2023-09-21",
+      "reference_service_life": 0,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "en15804a2",
+      "subtype": "representative",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "BETONELEMENTER",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Sveller",
+  "quantity": 1.0,
+  "reference_service_life": 0,
+  "results": null,
+  "transport": [
+    {
+      "distance": 1500.0,
+      "distance_unit": "km",
+      "id": "73503502-199a-4a43-bf96-b9433c922177",
+      "impact_data": {
+        "epd": {
+          "comment": "Ökobau database værdier (Process Data set: Rail transport)",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "546796b6-8241-55ff-bd52-0e1cf4a644e1",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.01626,
+              "gwp_fos": 0.01598,
+              "gwp_bio": 0.0002298,
+              "gwp_lul": 0.0000518,
+              "odp": 8.317e-13,
+              "ap": 0.00002432,
+              "ep_fw": 0.00008572,
+              "ep_mar": 7.829e-6,
+              "ep_ter": 0.00008117,
+              "pocp": 0.00001916,
+              "adpe": 9.689e-6,
+              "adpf": 0.2147,
+              "wdp": 0.0004195
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Godstog",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Godstog"
+    }
+  ],
+  "unit": "tones"
+}

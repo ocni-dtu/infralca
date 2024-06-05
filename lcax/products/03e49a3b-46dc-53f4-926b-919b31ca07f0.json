@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "03e49a3b-46dc-53f4-926b-919b31ca07f0",
+  "impact_data": {
+    "epd": {
+      "comment": "2022 Emissionsfaktor for elektricitet for det danske elnet i 2022 er anvendt (COWI OPDATEREDE EMISSIONSFAKTORER FOR EL OG FJERNVARME, 2020).",
+      "conversions": null,
+      "declared_unit": "kwh",
+      "format_version": "2.2.1",
+      "id": "105b686a-d6c7-5332-af94-462737aa406d",
+      "impacts": {
+        "a1a3": {
+          "gwp": 0.2124,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c2": {
+          "gwp": 0.0,
+          "gwp_fos": null,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c3": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": null,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c4": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": null,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "d": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": null,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "Drivmidler",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Elmix DK",
+      "published_date": "2023-09-21",
+      "reference_service_life": 0,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "unknown",
+      "subtype": "industry",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "Drivmidler",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Elmix DK",
+  "quantity": 1.0,
+  "reference_service_life": 0,
+  "results": null,
+  "transport": [
+    {
+      "distance": 0.0,
+      "distance_unit": "km",
+      "id": "14861229-2203-451e-b42f-99a79fcd3848",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: 20-26 ton lastbil, der overholder EURONORM 5.  Ökobau database værdier (Process Data set: Truck) nyttegrad korrigeret til 49 % for bulk transport",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "9307ed80-66ed-5f86-94df-4dd694c826ee",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.16122750000000002,
+              "gwp_fos": 0.1601075,
+              "gwp_bio": 0.0000872375,
+              "gwp_lul": 0.00102795,
+              "odp": 5.694500000000001e-17,
+              "ap": 0.0005495,
+              "ep_fw": 3.32675e-7,
+              "ep_mar": 0.00025795,
+              "ep_ter": 0.0028770000000000002,
+              "pocp": 0.0004987500000000001,
+              "adpe": 1.474725e-8,
+              "adpf": 2.12625,
+              "wdp": 0.00062685
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Lastbil 26 ton diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Lastbil 26 ton diesel"
+    }
+  ],
+  "unit": "kwh"
+}

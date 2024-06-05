@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "48261a44-d18a-54ea-8ae4-b7b6ba2b558b",
+  "impact_data": {
+    "epd": {
+      "comment": "Udarbejdet som kombination af 55 kg galvaniseret stål + 0.064 m3 beton(C20) pr. Ganglåge",
+      "conversions": null,
+      "declared_unit": "pcs",
+      "format_version": "2.2.1",
+      "id": "4b3a1aa2-98ac-5cde-8da4-a6e641f67929",
+      "impacts": {
+        "a1a3": {
+          "gwp": 114.88896729415907,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.8357457453577732,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c2": {
+          "gwp": 0.0,
+          "gwp_fos": null,
+          "gwp_bio": 1.0725834147340003,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c3": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": null,
+          "gwp_lul": 2.046179616680445,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c4": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": null,
+          "odp": 0.3547589089842116,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "d": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": null,
+          "ap": -24.767671443120285,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "TEKNIK",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Ganglåge",
+      "published_date": "2023-09-21",
+      "reference_service_life": 20,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "en15804a1",
+      "subtype": "generic",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "TEKNIK",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Ganglåge",
+  "quantity": 1.0,
+  "reference_service_life": 20,
+  "results": null,
+  "transport": [
+    {
+      "distance": 1500.0,
+      "distance_unit": "km",
+      "id": "19132094-b9e8-48a8-a5f6-ef0dfcef7156",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: 20-26 ton lastbil, der overholder EURONORM 5.  Ökobau database værdier (Process Data set: Truck) nyttegrad korrigeret til 49 % for bulk transport",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "9307ed80-66ed-5f86-94df-4dd694c826ee",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.16122750000000002,
+              "gwp_fos": 0.1601075,
+              "gwp_bio": 0.0000872375,
+              "gwp_lul": 0.00102795,
+              "odp": 5.694500000000001e-17,
+              "ap": 0.0005495,
+              "ep_fw": 3.32675e-7,
+              "ep_mar": 0.00025795,
+              "ep_ter": 0.0028770000000000002,
+              "pocp": 0.0004987500000000001,
+              "adpe": 1.474725e-8,
+              "adpf": 2.12625,
+              "wdp": 0.00062685
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Lastbil 26 ton diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Lastbil 26 ton diesel"
+    }
+  ],
+  "unit": "pcs"
+}

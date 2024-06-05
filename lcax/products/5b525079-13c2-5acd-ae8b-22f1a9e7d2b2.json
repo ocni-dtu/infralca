@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "5b525079-13c2-5acd-ae8b-22f1a9e7d2b2",
+  "impact_data": {
+    "epd": {
+      "comment": "Udarbejdet som 16,2 kg galvaniseret stål pr. m. stålmåttehegn",
+      "conversions": null,
+      "declared_unit": "m",
+      "format_version": "2.2.1",
+      "id": "682528af-d565-5d97-8431-2029641379d2",
+      "impacts": {
+        "a1a3": {
+          "gwp": 29.775841434784155,
+          "gwp_fos": 29.69505833856672,
+          "gwp_bio": 0.0414845434005391,
+          "gwp_lul": 0.019309125717974784,
+          "odp": 3.990424384571641e-8,
+          "ap": 0.0951422915700834,
+          "ep_fw": 0.012318587414497836,
+          "ep_mar": -0.0028379101701184713,
+          "ep_ter": 0.21087080882624298,
+          "pocp": 0.06676615191575998,
+          "adpe": 0.0002319791625908712,
+          "adpf": 317.12212251116057,
+          "wdp": 1.2594165483394242
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.019064810707314524,
+          "gwp_bio": 0.01947518883609909,
+          "gwp_lul": -0.00008033071087861678,
+          "odp": 0.00008983080299378709,
+          "ap": 2.2845459630453913e-9,
+          "ep_fw": 0.00015429571377529973,
+          "ep_mar": 3.6627055824984764e-7,
+          "ep_ter": 0.00006856869206935834,
+          "pocp": 0.0007554835158254467,
+          "adpe": 0.00020305639065214316,
+          "adpf": 6.379925806868101e-9,
+          "wdp": 0.2934042054617218
+        },
+        "c2": {
+          "gwp": 0.00033670394503426665,
+          "gwp_fos": null,
+          "gwp_bio": 0.19355629853697287,
+          "gwp_lul": 0.1915851909892675,
+          "odp": 0.0012550461828340612,
+          "ap": 0.0009086159530152156,
+          "ep_fw": 2.1035918274892566e-8,
+          "ep_mar": 0.0006595131975191346,
+          "ep_ter": 5.823491840122412e-6,
+          "pocp": 0.00023814856764899667,
+          "adpe": 0.0026432229082344544,
+          "adpf": 0.0006068426187853673,
+          "wdp": 2.104011897602323e-7
+        },
+        "c3": {
+          "gwp": 2.8177143960641127,
+          "gwp_fos": 0.005775021982391952,
+          "gwp_bio": null,
+          "gwp_lul": 0.47791279722234203,
+          "odp": 0.4960082107750473,
+          "ap": 0.0000625907429492682,
+          "ep_fw": 0.0003808438288074728,
+          "ep_mar": 8.356203472731417e-8,
+          "ep_ter": 0.005700055269102172,
+          "pocp": 0.0002755996110553992,
+          "adpe": 0.0016919211671779467,
+          "adpf": 0.018819230094813524,
+          "wdp": 0.005150730214823618
+        },
+        "c4": {
+          "gwp": 0.000017798454891010017,
+          "gwp_fos": 7.20585218259515,
+          "gwp_bio": 0.09386995780465879,
+          "gwp_lul": null,
+          "odp": 0.01130640214659212,
+          "ap": 0.011293476851197332,
+          "ep_fw": -3.0374444177755336e-6,
+          "ep_mar": 4.973007403145263e-6,
+          "ep_ter": 2.433186859465057e-9,
+          "pocp": 0.00010994579395192825,
+          "adpe": 4.3347886297890437e-7,
+          "adpf": 0.000047345357031113964,
+          "wdp": 0.0005159454789215102
+        },
+        "d": {
+          "gwp": 0.00014276635028314752,
+          "gwp_fos": 8.605661673850855e-9,
+          "gwp_bio": 0.1676733945089069,
+          "gwp_lul": 0.0012760497878505942,
+          "odp": null,
+          "ap": -7.2291177143057705,
+          "ep_fw": -7.222978198993247,
+          "ep_mar": -0.0033382806680892596,
+          "ep_ter": 0.00021181327828211305,
+          "pocp": -3.079452798387978e-8,
+          "adpe": -0.014422044601506133,
+          "adpf": -0.000058309949740990876,
+          "wdp": -0.002381097917628123
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "TEKNIK",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Stålmåttehegn <3 m fra spormidte",
+      "published_date": "2023-09-21",
+      "reference_service_life": 20,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "en15804a2",
+      "subtype": "generic",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "TEKNIK",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Stålmåttehegn <3 m fra spormidte",
+  "quantity": 1.0,
+  "reference_service_life": 20,
+  "results": null,
+  "transport": [
+    {
+      "distance": 1500.0,
+      "distance_unit": "km",
+      "id": "0474d944-eb8e-4b5a-987a-7430d99a349c",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: 20-26 ton lastbil, der overholder EURONORM 5.  Ökobau database værdier (Process Data set: Truck) nyttegrad korrigeret til 49 % for bulk transport",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "9307ed80-66ed-5f86-94df-4dd694c826ee",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.16122750000000002,
+              "gwp_fos": 0.1601075,
+              "gwp_bio": 0.0000872375,
+              "gwp_lul": 0.00102795,
+              "odp": 5.694500000000001e-17,
+              "ap": 0.0005495,
+              "ep_fw": 3.32675e-7,
+              "ep_mar": 0.00025795,
+              "ep_ter": 0.0028770000000000002,
+              "pocp": 0.0004987500000000001,
+              "adpe": 1.474725e-8,
+              "adpf": 2.12625,
+              "wdp": 0.00062685
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Lastbil 26 ton diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Lastbil 26 ton diesel"
+    }
+  ],
+  "unit": "m"
+}

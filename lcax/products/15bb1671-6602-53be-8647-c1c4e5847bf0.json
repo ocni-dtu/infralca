@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "15bb1671-6602-53be-8647-c1c4e5847bf0",
+  "impact_data": {
+    "epd": {
+      "comment": "Udarbejdet som kombination af 20 kg polymerbeton-rende (EPD S-P-07729) og 2 kg fiberkomposit-rist (gennemsnit S-P-07495 og S-P-01917) ",
+      "conversions": null,
+      "declared_unit": "m",
+      "format_version": "2.2.1",
+      "id": "b2712b00-efd9-57ce-a557-7d67f72ff16b",
+      "impacts": {
+        "a1a3": {
+          "gwp": 24.541333333333334,
+          "gwp_fos": 25.835955555555557,
+          "gwp_bio": -1.3630777777777778,
+          "gwp_lul": 0.11851288888888889,
+          "odp": 2.8705555555555553e-6,
+          "ap": 0.11043644444444443,
+          "ep_fw": 0.004077511111111111,
+          "ep_mar": 0.020595488888888888,
+          "ep_ter": 0.2155817777777778,
+          "pocp": 0.10098444444444445,
+          "adpe": 0.0004896266666666667,
+          "adpf": 424.40666666666664,
+          "wdp": 13.2192
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.21506862222222223,
+          "gwp_bio": 0.21211991111111111,
+          "gwp_lul": 0.0006435115555555556,
+          "odp": 0.0018817572355555557,
+          "ap": 8.036009016e-9,
+          "ep_fw": 0.0012452119555555557,
+          "ep_mar": 0.00019208215164444445,
+          "ep_ter": 0.00021381988444444446,
+          "pocp": 0.0019227360444444444,
+          "adpe": 0.0005365347555555554,
+          "adpf": 2.6080827111111113e-7,
+          "wdp": 2.4072502222222223
+        },
+        "c2": {
+          "gwp": 0.09131923111111111,
+          "gwp_fos": null,
+          "gwp_bio": 0.17614337777777778,
+          "gwp_lul": 0.17594555555555555,
+          "odp": 0.0001467648888888889,
+          "ap": 0.000074069,
+          "ep_fw": 4.049720009146667e-8,
+          "ep_mar": 0.0007125357777777778,
+          "ep_ter": 1.797472e-6,
+          "pocp": 0.00021373386666666668,
+          "adpe": 0.0023488155555555557,
+          "adpf": 0.0007209400444444445,
+          "wdp": 7.299938622222222e-7
+        },
+        "c3": {
+          "gwp": 2.6703973333333333,
+          "gwp_fos": 0.007980229777777778,
+          "gwp_bio": null,
+          "gwp_lul": 0.032,
+          "odp": 0.0312,
+          "ap": 0.0008160000000000001,
+          "ep_fw": 0.0000622,
+          "ep_mar": 2.34e-9,
+          "ep_ter": 0.0001986,
+          "pocp": 2.82e-6,
+          "adpe": 0.000040400000000000006,
+          "adpf": 0.000454,
+          "wdp": 0.0001262
+        },
+        "c4": {
+          "gwp": 2.62e-7,
+          "gwp_fos": 0.62,
+          "gwp_bio": 0.00666,
+          "gwp_lul": null,
+          "odp": 1.3597044444444442,
+          "ap": 1.2597044444444443,
+          "ep_fw": 0.10077292444444445,
+          "ep_mar": 0.000042154777777777774,
+          "ep_ter": 9.455555555555555e-9,
+          "pocp": 0.0005980377777777778,
+          "adpe": 0.000013697577777777778,
+          "adpf": 0.00039336444444444446,
+          "wdp": 0.0024900733333333334
+        },
+        "d": {
+          "gwp": 0.0006682222222222222,
+          "gwp_fos": 1.9476844444444444e-7,
+          "gwp_bio": 1.224308888888889,
+          "gwp_lul": 0.09328000000000002,
+          "odp": null,
+          "ap": -0.06502,
+          "ep_fw": -0.06242,
+          "ep_mar": -0.0025073206,
+          "ep_ter": -0.000038892000000000006,
+          "pocp": -9.4236e-9,
+          "adpe": -0.00057918,
+          "adpf": 3.6019999999999996e-7,
+          "wdp": -0.000115952
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "TEKNIK",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Linjedræn ø100",
+      "published_date": "2023-09-21",
+      "reference_service_life": 0,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "en15804a2",
+      "subtype": "generic",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "TEKNIK",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Linjedræn ø100",
+  "quantity": 1.0,
+  "reference_service_life": 0,
+  "results": null,
+  "transport": [
+    {
+      "distance": 1500.0,
+      "distance_unit": "km",
+      "id": "ff367cc2-14ea-45c1-a4e7-976b8831c33c",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: 20-26 ton lastbil, der overholder EURONORM 5.  Ökobau database værdier (Process Data set: Truck) nyttegrad korrigeret til 49 % for bulk transport",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "9307ed80-66ed-5f86-94df-4dd694c826ee",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.16122750000000002,
+              "gwp_fos": 0.1601075,
+              "gwp_bio": 0.0000872375,
+              "gwp_lul": 0.00102795,
+              "odp": 5.694500000000001e-17,
+              "ap": 0.0005495,
+              "ep_fw": 3.32675e-7,
+              "ep_mar": 0.00025795,
+              "ep_ter": 0.0028770000000000002,
+              "pocp": 0.0004987500000000001,
+              "adpe": 1.474725e-8,
+              "adpf": 2.12625,
+              "wdp": 0.00062685
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Lastbil 26 ton diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Lastbil 26 ton diesel"
+    }
+  ],
+  "unit": "m"
+}

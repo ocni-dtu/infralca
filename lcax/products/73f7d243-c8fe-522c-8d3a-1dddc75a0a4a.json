@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "73f7d243-c8fe-522c-8d3a-1dddc75a0a4a",
+  "impact_data": {
+    "epd": {
+      "comment": "Data er baseret på gennemsnit af 95% stabilgrus og 5 % cement CEM I 52,5 (EPD S-P-06379)",
+      "conversions": null,
+      "declared_unit": "tones",
+      "format_version": "2.2.1",
+      "id": "0720fd3d-b743-54f4-8187-ecf14b13f5d5",
+      "impacts": {
+        "a1a3": {
+          "gwp": 43.634600000000006,
+          "gwp_fos": 43.534600000000005,
+          "gwp_bio": 0.1195599,
+          "gwp_lul": 0.00453183,
+          "odp": 7.06950019456e-7,
+          "ap": 0.139218,
+          "ep_fw": 0.0006131776000000001,
+          "ep_mar": 0.0308858,
+          "ep_ter": 0.34692,
+          "pocp": 0.10381499999999999,
+          "adpe": 0.00008838912,
+          "adpf": 177.367,
+          "wdp": 1.285922
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.66222125,
+          "gwp_bio": 0.66459625,
+          "gwp_lul": 0.00001337125,
+          "odp": 0.004774453,
+          "ap": 3.9187631195e-9,
+          "ep_fw": 0.005519737499999999,
+          "ep_mar": 2.1282375e-6,
+          "ep_ter": 0.0027737625000000005,
+          "pocp": 0.030437999999999996,
+          "adpe": 0.008200875,
+          "adpf": 5.426875e-8,
+          "wdp": 8.79225
+        },
+        "c2": {
+          "gwp": 0.005773862499999999,
+          "gwp_fos": null,
+          "gwp_bio": 0.8621249999999999,
+          "gwp_lul": 0.85975,
+          "odp": 0.0020567499999999996,
+          "ap": 0.00028974999999999997,
+          "ep_fw": 1.95225e-7,
+          "ep_mar": 0.00344375,
+          "ep_ter": 0.0000577125,
+          "pocp": 0.0010545,
+          "adpe": 0.011494999999999998,
+          "adpf": 0.003515,
+          "wdp": 3.0874999999999997e-6
+        },
+        "c3": {
+          "gwp": 12.99125,
+          "gwp_fos": 0.03705,
+          "gwp_bio": null,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c4": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": null,
+          "odp": 0.0646,
+          "ap": 0.064125,
+          "ep_fw": 0.00042274999999999995,
+          "ep_mar": 0.000027787499999999998,
+          "ep_ter": 1.6102499999999998e-8,
+          "pocp": 0.00046312499999999994,
+          "adpe": 0.0000115425,
+          "adpf": 0.0001655375,
+          "wdp": 0.001802625
+        },
+        "d": {
+          "gwp": 0.000513,
+          "gwp_fos": 2.1921249999999998e-7,
+          "gwp_bio": 1.180375,
+          "gwp_lul": 0.0296875,
+          "odp": null,
+          "ap": -1.7323250000000003,
+          "ep_fw": -1.573675,
+          "ep_mar": -0.1607875,
+          "ep_ter": 0.0001947500000000001,
+          "pocp": -5.462499980049999e-8,
+          "adpe": -0.014492249999999998,
+          "adpf": -0.000445984625,
+          "wdp": -0.005718999999999999
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "CEMENT",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Cementstabiliseret grus",
+      "published_date": "2023-09-21",
+      "reference_service_life": 0,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "en15804a2",
+      "subtype": "representative",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "CEMENT",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Cementstabiliseret grus",
+  "quantity": 1.0,
+  "reference_service_life": 0,
+  "results": null,
+  "transport": [
+    {
+      "distance": 129.38211693563147,
+      "distance_unit": "km",
+      "id": "8a1ae745-3764-4b9d-8a39-564604c99b07",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: 20-26 ton lastbil, der overholder EURONORM 5.  Ökobau database værdier (Process Data set: Truck) nyttegrad korrigeret til 49 % for bulk transport",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "9307ed80-66ed-5f86-94df-4dd694c826ee",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.16122750000000002,
+              "gwp_fos": 0.1601075,
+              "gwp_bio": 0.0000872375,
+              "gwp_lul": 0.00102795,
+              "odp": 5.694500000000001e-17,
+              "ap": 0.0005495,
+              "ep_fw": 3.32675e-7,
+              "ep_mar": 0.00025795,
+              "ep_ter": 0.0028770000000000002,
+              "pocp": 0.0004987500000000001,
+              "adpe": 1.474725e-8,
+              "adpf": 2.12625,
+              "wdp": 0.00062685
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Lastbil 26 ton diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Lastbil 26 ton diesel"
+    }
+  ],
+  "unit": "tones"
+}

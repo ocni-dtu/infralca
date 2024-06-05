@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "5482812f-ac32-5956-9d41-a407df8d2151",
+  "impact_data": {
+    "epd": {
+      "comment": "Gennemsnit af S-P-06433 (PG10), S-P-06195 (PG7), S-P-06102 (PG2) og S-P-02083 (PG4)",
+      "conversions": null,
+      "declared_unit": "tones",
+      "format_version": "2.2.1",
+      "id": "e6b988fc-19b3-5b08-9041-2cb26679ee2f",
+      "impacts": {
+        "a1a3": {
+          "gwp": 4.300000000000001,
+          "gwp_fos": 4.300000000000001,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.004242500000000001,
+          "odp": 8.571e-12,
+          "ap": 0.0185,
+          "ep_fw": 3.1999999999999994e-6,
+          "ep_mar": 0.008074999999999999,
+          "ep_ter": 0.0955,
+          "pocp": 0.02375,
+          "adpe": 2.7e-7,
+          "adpf": 57.75,
+          "wdp": 0.137
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 0.9374999999999999,
+          "gwp_bio": 0.9275,
+          "gwp_lul": 0.0,
+          "odp": 0.0057,
+          "ap": 4.128e-14,
+          "ep_fw": 0.0043,
+          "ep_mar": 2.7e-6,
+          "ep_ter": 0.000826275,
+          "pocp": 0.009001400000000001,
+          "adpe": 0.007549999999999999,
+          "adpf": 7.450000000000001e-8,
+          "wdp": 12.0
+        },
+        "c2": {
+          "gwp": 0.008150000000000001,
+          "gwp_fos": null,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c3": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": null,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c4": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": null,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "d": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": null,
+          "ap": -1.315,
+          "ep_fw": -1.315,
+          "ep_mar": 0.0,
+          "ep_ter": -0.0017499999999999998,
+          "pocp": -8.55225e-12,
+          "adpe": -0.005849999999999999,
+          "adpf": -1.4005000000000002e-6,
+          "wdp": -0.00245
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "UBUNDNE MATERIALER",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "Granitskærver 0-250",
+      "published_date": "2023-09-21",
+      "reference_service_life": 0,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "en15804a2",
+      "subtype": "representative",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "UBUNDNE MATERIALER",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "Granitskærver 0-250",
+  "quantity": 1.0,
+  "reference_service_life": 0,
+  "results": null,
+  "transport": [
+    {
+      "distance": 1000.0,
+      "distance_unit": "km",
+      "id": "86acfc0e-179a-439a-a48b-9d6c58cb6b88",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: Skib (åbent hav). Ökobau database værdier (Process Data set: Bulk carrier ocean)",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "cd2b0b5e-c2fa-5b60-94b5-a2c1e4167985",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.004782,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Skib åbent hav diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Skib åbent hav diesel"
+    }
+  ],
+  "unit": "tones"
+}

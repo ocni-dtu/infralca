@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "13e11275-8c29-5283-89a8-075a891bd060",
+  "impact_data": {
+    "epd": {
+      "comment": "Gennemsnit af EPD NEPD-3708-2650-DK, NEPD-3663-2609-DK og NEPD-2867-1561-DK",
+      "conversions": null,
+      "declared_unit": "tones",
+      "format_version": "2.2.1",
+      "id": "ad374567-a9c8-5e7e-a2d4-111f098085fc",
+      "impacts": {
+        "a1a3": {
+          "gwp": 62.4,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 2.9749999999999996,
+          "gwp_bio": 2.9749999999999996,
+          "gwp_lul": 0.00123,
+          "odp": 0.0003485,
+          "ap": 6.525e-7,
+          "ep_fw": 0.0279,
+          "ep_mar": 0.00001345,
+          "ep_ter": 0.01199,
+          "pocp": 0.1315,
+          "adpe": 0.03655,
+          "adpf": 0.000011949999999999999,
+          "wdp": 42.1
+        },
+        "c2": {
+          "gwp": 15.75,
+          "gwp_fos": null,
+          "gwp_bio": 6.265000000000001,
+          "gwp_lul": 6.265000000000001,
+          "odp": 0.003845,
+          "ap": 0.00212,
+          "ep_fw": 1.45e-6,
+          "ep_mar": 0.01875,
+          "ep_ter": 0.00004985,
+          "pocp": 0.0038599999999999997,
+          "adpe": 0.043149999999999994,
+          "adpf": 0.0167,
+          "wdp": 0.00015175
+        },
+        "c3": {
+          "gwp": 96.85,
+          "gwp_fos": 86.6,
+          "gwp_bio": null,
+          "gwp_lul": 2.64,
+          "odp": 2.64,
+          "ap": 0.0007340000000000001,
+          "ep_fw": 0.000208,
+          "ep_mar": 5.7e-7,
+          "ep_ter": 0.0276,
+          "pocp": 9.610000000000001e-6,
+          "adpe": 0.012195000000000001,
+          "adpf": 0.1335,
+          "wdp": 0.03675
+        },
+        "c4": {
+          "gwp": 4.05e-6,
+          "gwp_fos": 36.35,
+          "gwp_bio": 7.705,
+          "gwp_lul": null,
+          "odp": 0.0,
+          "ap": 0.0,
+          "ep_fw": 0.0,
+          "ep_mar": 0.0,
+          "ep_ter": 0.0,
+          "pocp": 0.0,
+          "adpe": 0.0,
+          "adpf": 0.0,
+          "wdp": 0.0
+        },
+        "d": {
+          "gwp": 0.0,
+          "gwp_fos": 0.0,
+          "gwp_bio": 0.0,
+          "gwp_lul": 0.0,
+          "odp": null,
+          "ap": -43.4,
+          "ep_fw": -43.349999999999994,
+          "ep_mar": -0.001015,
+          "ep_ter": -0.034600000000000006,
+          "pocp": -0.00006385,
+          "adpe": -0.43700000000000006,
+          "adpf": -0.0009045,
+          "wdp": -0.08365
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "ASFALTMATERIALER",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "AB6t (tætgraderet asfaltbeton)",
+      "published_date": "2023-09-21",
+      "reference_service_life": 0,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "en15804a1",
+      "subtype": "representative",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "ASFALTMATERIALER",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "AB6t (tætgraderet asfaltbeton)",
+  "quantity": 1.0,
+  "reference_service_life": 0,
+  "results": null,
+  "transport": [
+    {
+      "distance": 101.6233624102096,
+      "distance_unit": "km",
+      "id": "d2d5c08e-dd33-4af8-94c4-7ac7ea5b7ab4",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: 20-26 ton lastbil, der overholder EURONORM 5.  Ökobau database værdier (Process Data set: Truck) nyttegrad korrigeret til 49 % for bulk transport",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "9307ed80-66ed-5f86-94df-4dd694c826ee",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.16122750000000002,
+              "gwp_fos": 0.1601075,
+              "gwp_bio": 0.0000872375,
+              "gwp_lul": 0.00102795,
+              "odp": 5.694500000000001e-17,
+              "ap": 0.0005495,
+              "ep_fw": 3.32675e-7,
+              "ep_mar": 0.00025795,
+              "ep_ter": 0.0028770000000000002,
+              "pocp": 0.0004987500000000001,
+              "adpe": 1.474725e-8,
+              "adpf": 2.12625,
+              "wdp": 0.00062685
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Lastbil 26 ton diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Lastbil 26 ton diesel"
+    }
+  ],
+  "unit": "tones"
+}

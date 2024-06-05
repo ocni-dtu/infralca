@@ -1,0 +1,261 @@
+{
+  "description": null,
+  "id": "02cb3420-c6a6-5900-9e95-d7abe81962bf",
+  "impact_data": {
+    "epd": {
+      "comment": "Udarbejdet som kombination af 1122 kg galvaniseret stål og 1 stk belysningsarmatur (gennemsnit NEPD-4447-3710, S-P-03810, S-P-09191) ",
+      "conversions": null,
+      "declared_unit": "pcs",
+      "format_version": "2.2.1",
+      "id": "7629fb79-db1d-57b0-8aeb-4de61a7e572c",
+      "impacts": {
+        "a1a3": {
+          "gwp": 2239.8608028866015,
+          "gwp_fos": 2223.8506651557354,
+          "gwp_bio": 3.7663185189316666,
+          "gwp_lul": 3.3521374229173375,
+          "odp": 0.000014728729092937074,
+          "ap": 7.618680462527546,
+          "ep_fw": 0.8836245659783054,
+          "ep_mar": 0.003114238181340656,
+          "ep_ter": 16.33832607902636,
+          "pocp": 5.497115203835529,
+          "adpe": 0.024092215935420346,
+          "adpf": 24018.14814295462,
+          "wdp": 2434.5940782046423
+        },
+        "c1": {
+          "gwp": null,
+          "gwp_fos": 1.3239138378177324,
+          "gwp_bio": 1.3524116441571987,
+          "gwp_lul": -0.005578389492906581,
+          "odp": 0.006238102490056434,
+          "ap": 1.5864526850224728e-7,
+          "ep_fw": 0.010714726399287578,
+          "ep_mar": 0.00002543485313841355,
+          "ep_ter": 0.0047616019726258105,
+          "pocp": 0.05246289072572641,
+          "adpe": 0.014100804333638356,
+          "adpf": 4.430399120995476e-7,
+          "wdp": 20.374809571839
+        },
+        "c2": {
+          "gwp": 0.02338166472891656,
+          "gwp_fos": null,
+          "gwp_bio": 13.820091336488503,
+          "gwp_lul": 13.683212109188704,
+          "odp": 0.08731092112006902,
+          "ap": 0.06323183594168952,
+          "ep_fw": 1.5466930664975438e-6,
+          "ep_mar": 0.04688844310145749,
+          "ep_ter": 0.00040742957940934185,
+          "pocp": 0.01675370336392659,
+          "adpe": 0.18596279988727205,
+          "adpf": 0.04306485063426612,
+          "wdp": 0.000025110847749462035
+        },
+        "c3": {
+          "gwp": 201.3999773859428,
+          "gwp_fos": 5.941033696770822,
+          "gwp_bio": null,
+          "gwp_lul": 37.09760281580384,
+          "odp": 38.27419900085117,
+          "ap": 0.08934647644720839,
+          "ep_fw": 0.027065861851728462,
+          "ep_mar": 5.8750816688078906e-6,
+          "ep_ter": 0.3978877982899118,
+          "pocp": 0.01915680868262277,
+          "adpe": 0.11808974330192622,
+          "adpf": 1.3132600324492327,
+          "wdp": 0.35933112838668896
+        },
+        "c4": {
+          "gwp": 0.0012388945440820083,
+          "gwp_fos": 504.49455225992256,
+          "gwp_bio": 28.21859270993307,
+          "gwp_lul": null,
+          "odp": 1.0861482234786857,
+          "ap": 1.0452506547750804,
+          "ep_fw": 0.03978907135465277,
+          "ep_mar": 0.000971339558712117,
+          "ep_ter": 1.823673085506243e-7,
+          "pocp": 0.008235943785042093,
+          "adpe": 0.00003408198600498491,
+          "adpf": 0.0036717941613060023,
+          "wdp": 0.03758869872616226
+        },
+        "d": {
+          "gwp": 0.010603095115671705,
+          "gwp_fos": 1.2626012428603704e-6,
+          "gwp_bio": 13.193710007519005,
+          "gwp_lul": 15.688612470263427,
+          "odp": null,
+          "ap": -512.2101759264119,
+          "ep_fw": -511.55383079219956,
+          "ep_mar": -0.2749195569236439,
+          "ep_ter": -0.1512910928696691,
+          "pocp": -0.013502138458249222,
+          "adpe": -1.1785071594827294,
+          "adpf": -0.005129206180417847,
+          "wdp": -0.17855010657815773
+        }
+      },
+      "location": "dnk",
+      "meta_data": {
+        "category": "TEKNIK",
+        "created": "2024-06-05",
+        "origin": "https://github.com/ocni-dtu/infralca"
+      },
+      "name": "10 m. gittermast inkl. armatur og 5 m. funderingspæl",
+      "published_date": "2023-09-21",
+      "reference_service_life": 20,
+      "source": {
+        "name": "InfraLCA",
+        "url": null
+      },
+      "standard": "en15804a2",
+      "subtype": "generic",
+      "valid_until": "2028-09-19",
+      "version": "3.1"
+    }
+  },
+  "meta_data": {
+    "category": "TEKNIK",
+    "created": "2024-06-05",
+    "origin": "https://github.com/ocni-dtu/infralca"
+  },
+  "name": "10 m. gittermast inkl. armatur og 5 m. funderingspæl",
+  "quantity": 1.0,
+  "reference_service_life": 20,
+  "results": null,
+  "transport": [
+    {
+      "distance": 138.0,
+      "distance_unit": "km",
+      "id": "00a72b0c-0779-44d7-b31c-7789c11c623d",
+      "impact_data": {
+        "epd": {
+          "comment": "2021: 20-26 ton lastbil, der overholder EURONORM 5.  Ökobau database værdier (Process Data set: Truck) nyttegrad korrigeret til 49 % for bulk transport",
+          "conversions": null,
+          "declared_unit": "tones_km",
+          "format_version": "2.2.1",
+          "id": "9307ed80-66ed-5f86-94df-4dd694c826ee",
+          "impacts": {
+            "a1a3": {
+              "gwp": 0.16122750000000002,
+              "gwp_fos": 0.1601075,
+              "gwp_bio": 0.0000872375,
+              "gwp_lul": 0.00102795,
+              "odp": 5.694500000000001e-17,
+              "ap": 0.0005495,
+              "ep_fw": 3.32675e-7,
+              "ep_mar": 0.00025795,
+              "ep_ter": 0.0028770000000000002,
+              "pocp": 0.0004987500000000001,
+              "adpe": 1.474725e-8,
+              "adpf": 2.12625,
+              "wdp": 0.00062685
+            },
+            "c1": {
+              "gwp": null,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c2": {
+              "gwp": 0.0,
+              "gwp_fos": null,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c3": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": null,
+              "gwp_lul": 0.0,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "c4": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": null,
+              "odp": 0.0,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            },
+            "d": {
+              "gwp": 0.0,
+              "gwp_fos": 0.0,
+              "gwp_bio": 0.0,
+              "gwp_lul": 0.0,
+              "odp": null,
+              "ap": 0.0,
+              "ep_fw": 0.0,
+              "ep_mar": 0.0,
+              "ep_ter": 0.0,
+              "pocp": 0.0,
+              "adpe": 0.0,
+              "adpf": 0.0,
+              "wdp": 0.0
+            }
+          },
+          "location": "dnk",
+          "meta_data": {
+            "category": "Transportmidler",
+            "created": "2024-06-05",
+            "origin": "https://github.com/ocni-dtu/infralca"
+          },
+          "name": "Lastbil 26 ton diesel",
+          "published_date": "2023-09-21",
+          "reference_service_life": 0,
+          "source": {
+            "name": "InfraLCA",
+            "url": null
+          },
+          "standard": "en15804a2",
+          "subtype": "generic",
+          "valid_until": "2028-09-19",
+          "version": "3.1"
+        }
+      },
+      "life_cycle_stages": [
+        "a4"
+      ],
+      "name": "Lastbil 26 ton diesel"
+    }
+  ],
+  "unit": "pcs"
+}
